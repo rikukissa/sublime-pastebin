@@ -22,7 +22,7 @@ class PastebinOpenCommand(sublime_plugin.TextCommand):
       html = response.read()
       edit = self.view.begin_edit()
       view = self.view.window().new_file()
-      view.set_name("testi.py")
+      #view.set_name("testi.py")
       view.insert(edit, 0, html)
 
     except (urllib2.HTTPError) as (e):  
