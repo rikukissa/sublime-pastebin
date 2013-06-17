@@ -1,0 +1,10 @@
+[{
+  "id": "pastebin-paste",
+  "caption": "Paste selected items to Pastebin.fi",
+  "command": "pastebin_paste"
+},
+{
+  "id": "pastebin-open",
+  "caption": "Open code from Pastebin.fi",
+  "command": "pastebin_open"
+}]
