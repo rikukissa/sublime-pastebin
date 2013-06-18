@@ -1,0 +1,4 @@
+[
+    { "caption": "Paste selected items to pastebin.fi", "command": "pastebin_paste" },
+    { "caption": "Open code from pastebin.fi", "command": "pastebin_open" }
+]
