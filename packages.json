@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "Pastebin",
+            "description": "Paste selected items to pastebin.fi",
+            "author": "Riku Rouvila",
+            "homepage": "https://github.com/rikukissa/sublime-pastebin",
+            "last_modified": "2013-06-18 13:00",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.1.0",
+                        "url": "https://nodeload.github.com/rikukissa/sublime-pastebin/zip/master"
+                    }
+                ]
+            }
+        }
+    ]
+}
