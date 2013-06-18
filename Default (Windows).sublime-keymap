@@ -1,0 +1,8 @@
+[  
+    {   
+        "keys": ["ctrl+alt+p"], "command": "pastebin_paste"   
+    },    
+    {   
+        "keys": ["ctrl+alt+o"], "command": "pastebin_open"   
+    }  
+] 
